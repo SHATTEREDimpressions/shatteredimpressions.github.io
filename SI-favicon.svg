@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.0152381,0,0,0.0152381,16,16)">
+        <g id="Shattered-impressions-Logo.svg" transform="matrix(1,0,0,1,-764.5,-1050)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="1529" height="2100"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.26824,0,0,1.26824,-567.435,-280.108)">
+                    <g id="Black-w-Red-Dot" serif:id="Black w/Red Dot">
+                        <g transform="matrix(1.10059,0,0,1.10059,-80.97,-168.444)">
+                            <path d="M1154.7,1272.96C1245.74,1272.96 1319.55,1346.77 1319.55,1437.81C1319.55,1528.85 1245.74,1602.66 1154.7,1602.66L1154.7,1272.96ZM1154.7,1017.4C1386.88,1017.4 1575.1,1205.63 1575.1,1437.81C1575.1,1669.99 1386.88,1858.22 1154.7,1858.22L899.194,1858.22L899.194,1249.21C667.602,1248.51 480.094,1060.57 480.094,828.823C480.094,691.192 547.461,562.277 660.45,483.69L803.799,689.79C758.282,721.448 731.144,773.38 731.144,828.823C731.144,921.916 806.256,997.466 899.194,998.146L899.194,686.585L1154.7,686.585L1154.7,1017.4Z"/>
+                        </g>
+                        <g transform="matrix(0.937353,-5.55112e-17,5.55112e-17,0.937353,-74.8237,-1408.93)">
+                            <circle cx="1050" cy="1888.72" r="150" style="fill:rgb(153,0,0);"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Shattered-impressions-Logo.svg1" serif:id="Shattered-impressions-Logo.svg">
+        </g>
+    </g>
+</svg>
